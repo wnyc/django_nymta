@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-django_nymta
+django_mta
 ======
 
 
@@ -11,7 +11,7 @@ from setuptools import setup
 
 
 setup(
-    name='django_nymta',
+    name='django_mta',
     version='0.0.0',
     author='Adam DePrince',
     author_email='adeprince@nypublicradio.org',
